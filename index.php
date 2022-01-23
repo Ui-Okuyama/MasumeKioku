@@ -9,7 +9,7 @@ echo $number;
 </head>
 <body>
     <div style="padding:30px;">
-    <script src="web/main.js"></script>
+    <script src="main.js"></script>
     <p style="border-bottom: solid 1px gray;">マス数</p>
     <form method="post">
         <input type="radio" name="number" value="5">5×5
